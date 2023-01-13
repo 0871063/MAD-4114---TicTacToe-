@@ -67,6 +67,9 @@
 				1CC8BAEF248E151200B0969E /* SceneDelegate.swift */,
 				1CC8BAF1248E151200B0969E /* ViewController.swift */,
 				1CC8BAF3248E151200B0969E /* Main.storyboard */,
+				1CC8BB02248E156500B0969E /* cross.png */,
+				1CC8BB03248E156500B0969E /* board.png */,
+				1CC8BB04248E156500B0969E /* nought.png */,
 				1CC8BAF6248E151500B0969E /* Assets.xcassets */,
 				1CC8BAF8248E151500B0969E /* LaunchScreen.storyboard */,
 				1CC8BAFB248E151500B0969E /* Info.plist */,
@@ -77,9 +80,6 @@
 		1CC8BB01248E156500B0969E /* res */ = {
 			isa = PBXGroup;
 			children = (
-				1CC8BB02248E156500B0969E /* cross.png */,
-				1CC8BB03248E156500B0969E /* board.png */,
-				1CC8BB04248E156500B0969E /* nought.png */,
 			);
 			path = res;
 			sourceTree = "<group>";
